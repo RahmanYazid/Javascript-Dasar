@@ -3,6 +3,7 @@
 Halo! Ini adalah repository dokumentasi proses belajarku dalam memahami JavaScript dasar. Repository ini berisi latihan, catatan, dan contoh kode dari setiap materi yang kupelajari.
 
 📚 Materi yang Dipelajari
+
 ✅ Pengenalan JavaScript
 
 ✅ Variabel dan Tipe Data

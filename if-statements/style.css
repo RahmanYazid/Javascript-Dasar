@@ -1,0 +1,25 @@
+#myResult {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#mySubmit {
+  margin-top: 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: gray;
+  color: wheat;
+}
+#myResult {
+  padding: 5px;
+  text-align: center;
+}
+.container {
+  border: 3px solid black;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 300px;
+  border-radius: 24px;
+}

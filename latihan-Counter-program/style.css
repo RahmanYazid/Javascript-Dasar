@@ -1,0 +1,22 @@
+#btnContainer {
+  text-align: center;
+}
+
+#hitungLabel {
+  font-size: 10em;
+  text-align: center;
+  display: block;
+}
+
+.buttons {
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 1.5em;
+  color: white;
+  background-color: rgba(52, 52, 132, 0.983);
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+.buttons:hover {
+  background-color: blue;
+}

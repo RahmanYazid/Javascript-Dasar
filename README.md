@@ -24,4 +24,4 @@ Folder disusun berdasarkan topik dan berisi contoh kode sederhana.
 ---
 
 🕐 Progress: belajar 2-8 jam per hari.  
-💬 Masukan & saran sangat diterima!!!
+💬 Masukan & saran sangat diterima!!
